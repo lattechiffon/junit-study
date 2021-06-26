@@ -1,2 +1,0 @@
-com/lattechiffon/junit/chapter1/ScoreCollectionTest.java
- com.lattechiffon.junit.chapter1.ScoreCollectionTest
