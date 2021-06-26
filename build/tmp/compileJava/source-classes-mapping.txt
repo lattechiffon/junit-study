@@ -1,0 +1,4 @@
+com/lattechiffon/junit/chapter1/ScoreCollection.java
+ com.lattechiffon.junit.chapter1.ScoreCollection
+com/lattechiffon/junit/chapter1/Scoreable.java
+ com.lattechiffon.junit.chapter1.Scoreable
