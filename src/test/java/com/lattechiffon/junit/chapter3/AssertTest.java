@@ -3,8 +3,6 @@ package com.lattechiffon.junit.chapter3;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
 
@@ -87,10 +85,10 @@ class AssertTest {
 
     @Test
     public void readsFromTestFile() throws IOException {
-        String filename = "test.txt";
-        BufferedWriter writer = new BufferedWriter(new FileWriter(filename));
-        writer.write("test data");
-        writer.close();
+        //String filename = "test.txt";
+        //BufferedWriter writer = new BufferedWriter(new FileWriter(filename));
+        //writer.write("test data");
+        //writer.close();
         // ...
     }
 
